@@ -1,0 +1,32 @@
+BuzzControl (YOU)
+│
+├── buzzagentmacount
+│   ├── mode: ops
+│   ├── mode: marketing
+│   ├── mode: observer
+│   └── mode: execute
+│
+├── buzzagentdeploy
+│   ├── firebase hosting
+│   ├── github sync
+│   └── release tasks
+│
+├── buzzagentble
+│   ├── scan
+│   ├── parse
+│   └── alert/log
+│
+├── buzzagentguard
+│   ├── policy checks
+│   ├── lock rules
+│   └── anomaly response
+│
+├── buzzagentdata
+│   ├── metrics
+│   ├── summaries
+│   └── reports
+│
+└── buzzagentui
+    ├── landing pages
+    ├── dashboard views
+    └── funnel visuals
