@@ -1,0 +1,25 @@
+~/buzzstack
+├── agents
+│   ├── buzzagentmacount.json
+│   ├── buzzagentdeploy.json
+│   ├── buzzagentble.json
+│   └── buzzagentguard.json
+├── automation
+│   ├── buzz-automation-runner.js
+│   ├── jobs.json
+│   └── logs
+│       └── .gitkeep
+├── ble
+│   ├── ble_test.py
+│   └── ble_scan_stub.sh
+├── deploy
+│   ├── firebase_smoke_test.sh
+│   ├── github_push_stub.sh
+│   └── env.example
+├── hub
+│   ├── deployhub.py
+│   └── templates
+│       └── index.html
+├── config
+│   └── buzzstack.config.json
+└── README.md
